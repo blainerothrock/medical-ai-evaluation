@@ -6,3 +6,4 @@ frontend
 tools
 fitz
 nltk
+tqdm
